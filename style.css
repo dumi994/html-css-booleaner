@@ -26,10 +26,12 @@ body{
 td{
     width:auto%;
     height: auto;
-    text-align: center;
-    
+    text-align: center; 
 }
 
+span>a{
+    text-decoration: none;
+}
 
 }
 .tabella_lorem{
