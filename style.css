@@ -12,15 +12,18 @@ body{
 }
 
 .logo{
-    background-image: url(./img/logo.svg);
-    background-repeat: no-repeat;
     width: auto;
     height: 100px;
+    margin-top:50px;
     
 }
 
 .booleaner{
     color:royalblue;
+}
+
+.padding_lista{
+    padding-left:15px;
 }
 
 td{
@@ -33,9 +36,10 @@ span>a{
     text-decoration: none;
 }
 
-}
+
 .tabella_lorem{
-    
+    border-spacing: 0px;
+    text-align: left;;
 }
 
 .tabella_lorem tr:nth-child(even) {
