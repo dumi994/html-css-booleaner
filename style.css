@@ -1,3 +1,9 @@
+body{
+    margin-top: 50px;
+    margin-left:150px;
+    margin-right: 150px;
+}
+
 .header{
     background-image: url(./img/pattern.png);
     width:auto;
