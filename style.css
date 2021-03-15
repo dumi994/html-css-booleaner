@@ -22,3 +22,24 @@ body{
     color:royalblue;
 }
 
+td{
+    width:33%;
+    height: auto;
+    text-align: center;
+}
+
+.tabella_lorem{
+    
+}
+
+.tabella_lorem tr:nth-child(even) {
+     background-color:skyblue;
+}
+.tabella_lorem tr:nth-child(odd) {
+     background-color: #F0F0F0;
+     }
+
+tr>th{
+    color:white;
+    background-color: royalblue;
+}
