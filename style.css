@@ -43,3 +43,24 @@ tr>th{
     color:white;
     background-color: royalblue;
 }
+
+#titolo_footer{
+    color:gray;
+}
+
+.img_footer1{
+    background-image: url(./img/monitor.jpg);
+    width:150px;
+    height:100px;
+    background-size: cover;
+    color:white;
+    margin-bottom: 10px;
+}
+
+.img_footer2{
+    background-image: url(./img/graph.jpg);
+    width:150px;
+    height: 100px;
+    background-size: cover;
+    color:white;
+}
